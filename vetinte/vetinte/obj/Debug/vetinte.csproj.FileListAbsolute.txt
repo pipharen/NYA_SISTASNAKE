@@ -1,0 +1,7 @@
+C:\Users\freja\source\repos\vetinte\vetinte\bin\Debug\vetinte.exe.config
+C:\Users\freja\source\repos\vetinte\vetinte\bin\Debug\vetinte.exe
+C:\Users\freja\source\repos\vetinte\vetinte\bin\Debug\vetinte.pdb
+C:\Users\freja\source\repos\vetinte\vetinte\obj\Debug\vetinte.csprojAssemblyReference.cache
+C:\Users\freja\source\repos\vetinte\vetinte\obj\Debug\vetinte.csproj.CoreCompileInputs.cache
+C:\Users\freja\source\repos\vetinte\vetinte\obj\Debug\vetinte.exe
+C:\Users\freja\source\repos\vetinte\vetinte\obj\Debug\vetinte.pdb
